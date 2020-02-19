@@ -3,3 +3,4 @@
 -trying out flask-sqlalchemy
 -trying out flask-jwt
 -created new model classes
+-created new resources classes
